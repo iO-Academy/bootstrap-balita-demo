@@ -1,0 +1,43 @@
+nav {
+    background-color: #000000;
+    color: #626262;
+}
+.fab {
+    font-size: 1.2rem;
+}
+nav input {
+    width: 80%;
+}
+nav input, nav .input-group-append {
+    height: 2rem;
+    background-color: #191919;
+    color: #626262;
+    margin: 5px 0;
+    border: 0;
+}
+nav .input-group-text {
+    background-color: #191919;
+    border: none;
+    color: #ffffff;
+}
+.title {
+    margin-top: 50px;
+    font-size: 4.5rem;
+}
+/* just colours and height for the boxes from here */
+.content-box {
+    height: 200px;
+}
+.one {
+    background-color: green;
+    height: 300px;
+}
+.two {
+    background-color: orange;
+}
+.three {
+    background-color: yellow;
+}
+.four {
+    background-color: pink;
+}
